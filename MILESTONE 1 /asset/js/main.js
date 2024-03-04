@@ -33,4 +33,5 @@ const team = [
   ];
 
   console.log(team); // stampare su console le informazioni di nome,ruolo e stringa foto
+
   
